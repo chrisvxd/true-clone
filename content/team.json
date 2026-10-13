@@ -1,0 +1,387 @@
+[
+ {
+  "name": "Puneet Agarwal",
+  "slug": "puneet-agarwal",
+  "photo": "https://www.trueventures.com/team-bios/puneet-agarwal.jpg",
+  "group": "Investment Team",
+  "role": "Managing Partner",
+  "links": [
+   {
+    "label": "X",
+    "url": "http://twitter.com/puneet324"
+   }
+  ]
+ },
+ {
+  "name": "Phil Black",
+  "slug": "phil-black",
+  "photo": "https://www.trueventures.com/team-bios/phil-black.jpg",
+  "group": "Investment Team",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Jon Callaghan",
+  "slug": "jon-callaghan",
+  "photo": "https://www.trueventures.com/team-bios/jon-callaghan.jpg",
+  "group": "Investment Team",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/jcal7"
+   }
+  ]
+ },
+ {
+  "name": "Tony Conrad",
+  "slug": "tony-conrad",
+  "photo": "https://www.trueventures.com/team-bios/tony-conrad.jpg",
+  "group": "Investment Team",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/tonysphere"
+   }
+  ]
+ },
+ {
+  "name": "Adam D'Augelli",
+  "slug": "adam-daugelli",
+  "photo": "https://www.trueventures.com/team-bios/adam-daugelli.jpg",
+  "group": "Investment Team",
+  "role": "Partner",
+  "links": [
+   {
+    "label": "X",
+    "url": "http://twitter.com/adaugelli"
+   }
+  ]
+ },
+ {
+  "name": "Soul Dayan",
+  "slug": "soul-dayan",
+  "photo": "https://www.trueventures.com/team-bios/soul-dayan.jpg",
+  "group": "Investment Team",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://x.com/soul_dayan"
+   }
+  ]
+ },
+ {
+  "name": "Mike Montano",
+  "slug": "mike-montano",
+  "photo": "https://www.trueventures.com/team-bios/mike-montano.jpg",
+  "group": "Investment Team",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://x.com/michaelmontano"
+   }
+  ]
+ },
+ {
+  "name": "Keerthi Nalabotu",
+  "slug": "keerthi-nalabotu",
+  "photo": "https://www.trueventures.com/team-bios/keerthi-nalabotu.png",
+  "group": "Investment Team",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Catherine Reller",
+  "slug": "catherine-reller",
+  "photo": "https://www.trueventures.com/team-bios/catherine-reller.png",
+  "group": "Investment Team",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Toni Schneider",
+  "slug": "toni-schneider",
+  "photo": "https://www.trueventures.com/team-bios/toni-schneider.jpg",
+  "group": "Investment Team",
+  "role": "Partner",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/tonidotorg"
+   },
+   {
+    "label": "Bluesky",
+    "url": "https://bsky.app/profile/toni.bsky.team"
+   }
+  ]
+ },
+ {
+  "name": "Natasha Sharma",
+  "slug": "natasha-sharma",
+  "photo": "https://www.trueventures.com/team-bios/natasha-sharma.jpg",
+  "group": "Investment Team",
+  "role": "Principal",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/natashasharma"
+   }
+  ]
+ },
+ {
+  "name": "Rohit Sharma",
+  "slug": "rohit-sharma",
+  "photo": "https://www.trueventures.com/team-bios/rohit-sharma.jpg",
+  "group": "Investment Team",
+  "role": "Partner",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/rohit_x_"
+   }
+  ]
+ },
+ {
+  "name": "Madeline Minshew",
+  "slug": "madeline-minshew",
+  "photo": "https://www.trueventures.com/team-bios/madeline-minshew.png",
+  "group": "Founder Experience",
+  "role": "Partner, Head of Founder Experience",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/madelineminshew"
+   }
+  ]
+ },
+ {
+  "name": "Priscilla Tyler",
+  "slug": "priscilla-tyler",
+  "photo": "https://www.trueventures.com/team-bios/priscilla-tyler.jpg",
+  "group": "Founder Experience",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/vcinabeanie"
+   }
+  ]
+ },
+ {
+  "name": "Laura Vrcek",
+  "slug": "laura-vrcek",
+  "photo": "https://www.trueventures.com/team-bios/laura-vrcek.jpg",
+  "group": "Founder Experience",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/lvstruck"
+   }
+  ]
+ },
+ {
+  "name": "Julie Walker",
+  "slug": "julie-walker",
+  "photo": "https://www.trueventures.com/team-bios/julie-walker.jpg",
+  "group": "Founder Experience",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://x.com/julz_walk"
+   }
+  ]
+ },
+ {
+  "name": "Ulrike Kellmereit",
+  "slug": "ulrike-kellmereit",
+  "photo": "https://www.trueventures.com/team-bios/ulrike-kellmereit.png",
+  "group": "Finance & Operations",
+  "role": "CFO & COO",
+  "links": []
+ },
+ {
+  "name": "Molly Diiorio",
+  "slug": "molly-pon-diiorio",
+  "photo": "https://www.trueventures.com/team-bios/molly-pon-diiorio.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Gretchen Robinson",
+  "slug": "gretchen-robinson",
+  "photo": "https://www.trueventures.com/team-bios/gretchen-robinson.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Lina Bhula",
+  "slug": "lina-bhula",
+  "photo": "https://www.trueventures.com/team-bios/lina-bhula.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Melissa Bodensieck",
+  "slug": "melissa-bodensieck",
+  "photo": "https://www.trueventures.com/team-bios/melissa-bodensieck.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Joyce Bremer",
+  "slug": "joyce-bremer",
+  "photo": "https://www.trueventures.com/team-bios/joyce-bremer.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Rachel Curtis",
+  "slug": "rachel-curtis",
+  "photo": "https://www.trueventures.com/team-bios/rachel-curtis.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Stephanie Duran",
+  "slug": "stephanie-duran",
+  "photo": "https://www.trueventures.com/team-bios/stephanie-duran.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Sydney Eberhardt",
+  "slug": "sydney-eberhardt",
+  "photo": "https://www.trueventures.com/team-bios/sydney-eberhardt.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Emily Fabian",
+  "slug": "emily-fabian",
+  "photo": "https://www.trueventures.com/team-bios/emily-fabian.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Graham Hays",
+  "slug": "graham-hays",
+  "photo": "https://www.trueventures.com/team-bios/graham-hays.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Amanda Mann",
+  "slug": "amanda-mann",
+  "photo": "https://www.trueventures.com/team-bios/amanda-mann.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Lauren Oesterle",
+  "slug": "lauren-oesterle",
+  "photo": "https://www.trueventures.com/team-bios/lauren-oesterle.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Emily Rabbitt",
+  "slug": "emily-rabbitt",
+  "photo": "https://www.trueventures.com/team-bios/emily-rabbitt.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Kyndel Sidore",
+  "slug": "kyndel-sidore",
+  "photo": "https://www.trueventures.com/team-bios/kyndel-sidore.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Carrie Wadsworth",
+  "slug": "carrie-wadsworth",
+  "photo": "https://www.trueventures.com/team-bios/carrie-wadsworth.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Nathan Yamamoto",
+  "slug": "nathan-yamamoto",
+  "photo": "https://www.trueventures.com/team-bios/nathan-yamamoto.png",
+  "group": "Finance & Operations",
+  "role": "",
+  "links": []
+ },
+ {
+  "name": "Amy Errett",
+  "slug": "amy-errett",
+  "photo": "https://www.trueventures.com/team-bios/amy-errett.jpg",
+  "group": "Venture Partners",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/amyerrett"
+   }
+  ]
+ },
+ {
+  "name": "Ann Crady Weiss",
+  "slug": "ann-crady-weiss",
+  "photo": "https://www.trueventures.com/team-bios/ann-crady-weiss.jpg",
+  "group": "Venture Partners",
+  "role": "Venture Partner",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/anncradyweiss"
+   }
+  ]
+ },
+ {
+  "name": "Dave Balter",
+  "slug": "dave-balter",
+  "photo": "https://www.trueventures.com/team-bios/dave-balter.jpg",
+  "group": "Venture Partners",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://twitter.com/davebalter"
+   }
+  ]
+ },
+ {
+  "name": "Helen Min",
+  "slug": "helen-min",
+  "photo": "https://www.trueventures.com/team-bios/helen-min.jpg",
+  "group": "Venture Partners",
+  "role": "",
+  "links": [
+   {
+    "label": "X",
+    "url": "https://x.com/helen_min "
+   }
+  ]
+ }
+]

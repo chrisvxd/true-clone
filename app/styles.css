@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+/* Puck components live outside app/, so point Tailwind at them explicitly. */
+@source "../components";
+@source "../puck.config.tsx";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  --background: #fff;
+  --foreground: #0c0a09;
+  --card: #fff;
+  --card-foreground: #0c0a09;
+  --primary: #1d1816;
+  --primary-foreground: #fbfaf9;
+  --secondary: #f3f1f1;
+  --secondary-foreground: #1d1816;
+  --muted: #f3f1f1;
+  --muted-foreground: #7c6d67;
+  --accent: #f3f1f1;
+  --accent-foreground: #1d1816;
+  --brand-blue: #113be1;
+  --brand-blue-foreground: #fff;
+  --border: #e8e4e3;
+  --input: #e8e4e3;
+  --ring: #aba09c;
+  --tv-blue: var(--brand-blue);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-brand-blue: var(--brand-blue);
+  --color-brand-blue-foreground: var(--brand-blue-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --font-sans: var(--font-geist), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-geist-mono), ui-monospace, monospace;
+  --font-serif: var(--font-playfair), ui-serif, Georgia, serif;
+
+  --container-site: 1260px;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  html {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  body {
+    margin: 0;
+    background: var(--background);
+    color: var(--foreground);
+    font-family: var(--font-sans);
+    text-wrap: pretty;
+  }
+}
+
+@utility max-w-site {
+  max-width: var(--container-site);
+}
+
+/* Infinite logo marquee on the portfolio page */
+@keyframes tv-marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.tv-marquee-track {
+  animation: tv-marquee var(--tv-marquee-duration, 60s) linear infinite;
+}
+
+.tv-marquee:hover .tv-marquee-track {
+  animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tv-marquee-track {
+    animation: none;
+  }
+}
+
+/* Rich text bodies (posts, bios, legal pages) */
+.tv-prose > * + * {
+  margin-top: 1.25em;
+}
+
+.tv-prose h2 {
+  font-family: var(--font-serif);
+  font-weight: 300;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  letter-spacing: -0.02em;
+  color: var(--foreground);
+  margin-top: 2em;
+}
+
+.tv-prose h3 {
+  font-weight: 600;
+  color: var(--foreground);
+  margin-top: 1.75em;
+}
+
+.tv-prose a {
+  color: var(--foreground);
+  text-decoration: underline;
+  text-decoration-color: color-mix(in oklab, var(--foreground) 25%, transparent);
+  text-underline-offset: 4px;
+}
+
+.tv-prose a:hover {
+  color: var(--brand-blue);
+}
+
+.tv-prose ul {
+  list-style: disc;
+  padding-left: 1.25em;
+}
+
+.tv-prose ol {
+  list-style: decimal;
+  padding-left: 1.25em;
+}
+
+.tv-prose strong {
+  color: var(--foreground);
+  font-weight: 600;
+}
+
+.tv-prose blockquote {
+  border-left: 2px solid var(--border);
+  padding-left: 1em;
+  font-style: italic;
+}
